@@ -28,24 +28,26 @@
 
 4.	RESPUESTAS A INTERROGANTES Y CALCULO DEL ERROR.
 
-4.1. ¿Como se comporta la bobina y el capacitor en corriente continua (cero Hz)?
+4.1. Tabla de resultados.
 
 ![Lab 7_Página_11](https://user-images.githubusercontent.com/93209004/152989453-563334a6-d3d9-43cb-a478-f938a40701bd.jpg)
+
+4.2. ¿Como se comporta la bobina y el capacitor en corriente continua (cero Hz)?
 
 El capacitor bloquea la corriente al tener un voltaje igual a la fuente. 
 La bobina obtiene la mayor corriente y su voltaje tiende a 0.
 
-4.2. ¿Como se comporta la bobina y el capacitor en corriente alterna?
+4.3. ¿Como se comporta la bobina y el capacitor en corriente alterna?
 
 Para los cpacaitores, a mayor frecuencia mayor corriente y menor voltaje y viceversa.
 Para las bobinas, a mayor frecuencia menor corriente y mayor voltaje y viceversa.
 
-4.3. ¿Qué cree usted que ocurriría con el voltajey la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos? 
+4.4. ¿Qué cree usted que ocurriría con el voltajey la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos? 
 
 En capacitores, la corriente aumenta y el voltaje disminuye.
 En bobinas, la corriente disminuye y el voltaje.
 
-4.4. ¿Qué son los valores eficaces de voltaje y corriente? 
+4.5. ¿Qué son los valores eficaces de voltaje y corriente? 
 
 Este valor de voltaje se refiere a una medida de efectividad al transmitir potencia a una carga.
 
