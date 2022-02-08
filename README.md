@@ -4,6 +4,7 @@
 
 1.1.	Objetivos Generales 
 
+•	Observar y analizar el comportamiento de los capacitores e inductores al interactuar con corriente continua y corriente alterna.
 
 1.2.	Objetivos Específicos 
 
