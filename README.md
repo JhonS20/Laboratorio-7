@@ -8,7 +8,16 @@
 
 1.2.	Objetivos Específicos 
 
+- Enfrentar al estudiante a comprender nuevos instrumentos de medición y formas de analizar fenómenos eléctricos.
+- Comparar lo comprendido de formar teórica con lo experimental cuando la corriente actúa en los capacitores e inductores.
+
+
 2.	MARCO TEORICO 
+
+
+![capacitaotes ye inductore](https://user-images.githubusercontent.com/93899658/153310322-954d7956-97c4-49e4-9677-53a79e78e30b.png)
+
+
 
 3.	EXPLICACION DEL PROCEDIMIENTO
 
@@ -55,6 +64,8 @@ Este valor de voltaje se refiere a una medida de efectividad al transmitir poten
 5.	VIDEO
 
 6.	CONCLUSIONES	
+
+
 
 7. BIBLIOGRAFÍA 
 
