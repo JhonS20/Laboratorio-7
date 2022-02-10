@@ -65,6 +65,8 @@ Este valor de voltaje se refiere a una medida de efectividad al transmitir poten
 
 6.	CONCLUSIONES	
 
+- Mediante el uso de un osciloscopio se amplía la forma de análisis ya que se pude obtener datos en tiempo real y como consecuencia de ello resultados o conclusiones más precisas y con tener una idea aproximada sobre el comportamiento de estos fenómenos en la realidad.
+- Cada elemento estudiado en esta práctica tiene comportamientos diferentes al energizarlos con corriente alterna, el caso de capacitores tienen un comportamiento muy diferente en comparación a la corriente continua ya que su actividad es mucho mayor. Con los inductores su actividad es muy notable ya que a medida que aumenta la frecuencia bloquea la corriente alterna.
 
 
 7. BIBLIOGRAFÍA 
